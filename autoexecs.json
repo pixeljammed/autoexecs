@@ -1,0 +1,20 @@
+
+{
+  "version": 1,
+  "gameconfigs": {
+    "csgo": [
+      "E:/Backups/Win10/DDrive/SteamLibrary/steamapps/common/Counter-Strike Global Offensive/csgo/cfg"
+    ],
+    "tf2": [
+      "D:/SteamLibrary/steamapps/common/Team Fortress 2/tf/cfg/autoexec.cfg"
+    ],
+    "l4d2": [
+      "D:/SteamLibrary/steamapps/common/Left 4 Dead 2/left4dead2/cfg/autoexec.cfg"
+    ],
+    "cs2": [
+      "D:/SteamLibrary/steamapps/common/Counter-Strike Global Offensive/game/csgo/cfg/autoexec.cfg",
+      "foo/bar/configs/video.cfg",
+      "foo/bar/configs/binds.cfg"
+    ]
+  }
+}
